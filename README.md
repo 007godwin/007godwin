@@ -2,6 +2,10 @@
 
 ## 🚀 **Aspiring Software Engineer | Web Developer **
 
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXMyc2Nvbm80ZTE5eWIzM2NvcTBpcmJpYjg1MTg2c2IyeGc4aWQzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="500"/>
+</div>
+
 ---
 
 ## 💻 **About Me:**
