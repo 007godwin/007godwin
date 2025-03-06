@@ -17,6 +17,12 @@ I'm a third-year **Software Engineering** student at the **University Of South A
 - **Database:** `SQL`, `SQLite`
 - **Tools & Platforms:** `Visual Studio 2022`, `Git`
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,nodejs,sqlite,java,cs,js,d3,python,c,cpp,visualstudio,git" />
+  </a>
+</p>
+
 ### 🌱 **Currently Learning:**
 - **Design Patterns using C++**
 - **Data and Web Mining**
